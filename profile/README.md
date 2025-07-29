@@ -1,4 +1,5 @@
-# AlphaLoop|Bot – Forged to Stay Ahead
+# AlphaLoop|Bot
+### Forged to Stay Ahead
 
 AlphaLoop is a high-performance crypto trading platform driven by adaptive AI.  
 It operates at high frequency, across a broad set of markets, with one core philosophy:  
